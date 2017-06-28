@@ -1,7 +1,7 @@
 <?PHp
 $servername = 'localhost';
 $username = 'root';
-$password = 'nutterbutter22';
+$password = '*******';
 
 $conn = new mysqli($servername,$username, $password);
 
